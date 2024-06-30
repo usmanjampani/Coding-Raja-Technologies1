@@ -61,7 +61,7 @@ class Library {
     }
 }
 
-public class sainadh {
+public class usman {
     public static void main(String[] args) {
         // Creating books
         Book book1 = new Book("The Great Gatsby", "F. Scott Fitzgerald");
